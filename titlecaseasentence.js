@@ -5,7 +5,7 @@ function capitalizeFirstLetter(word) {
 }
 
 function titleCase(str) {
-    var str = str.charAt(0).toUpperCase + str.slice(1) + str.split(" ");
+    str = str.charAt(0).toUpperCase() + str.slice(1);
     return str;
 }
  titleCase("hello world");
