@@ -11,4 +11,3 @@
 
 titleCase("I'm a little tea pot");
  
-NEEDS TO BE WORKED ON
