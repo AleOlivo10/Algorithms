@@ -11,4 +11,4 @@
 
 titleCase("I'm a little tea pot");
  
-THIS CODE IS NON FUNCTIONING
+NEEDS TO BE WORKED ON
